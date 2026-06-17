@@ -1,0 +1,113 @@
+2026-06-13 09:25:18,531 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 09:25:21,613 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 09:36:09,561 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 09:36:12,623 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 09:37:44,369 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 09:37:47,570 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 09:52:47,029 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 09:52:50,091 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 09:55:14,324 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 09:55:17,372 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 09:58:42,197 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 09:58:45,356 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 09:59:06,632 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:00:43,005 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:00:46,255 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:01:07,629 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:03:48,684 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:03:52,107 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:04:18,182 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:08:11,508 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:08:15,128 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:08:45,777 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:15:36,108 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:15:39,397 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:16:05,304 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:19:45,366 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:19:48,940 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:20:15,028 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:28:39,552 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:28:43,311 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:29:18,459 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:32:43,938 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:32:47,186 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:33:10,775 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:36:20,799 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:36:24,307 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:36:50,034 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:50:44,287 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:57:45,466 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 10:57:48,280 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 11:00:54,972 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 11:02:10,434 - ai - ERROR - Ollama query failed: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-06-13 12:12:29,842 - ai - ERROR - Ollama query failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/generate
+2026-06-13 12:52:30,684 - ai - ERROR - Ollama query failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/generate
+2026-06-15 11:26:17,071 - ai - ERROR - Ollama query failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=20)
+2026-06-15 11:52:59,182 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@gmail.com', '$2b$12$2v73R0V13TJDJ5VOgHxnfOkA9xJyqnl2S8tfYFaifivYoCKEn.OJe', 'admin', '2026-06-15 06:22:53.168033')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:52:59,210 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@gmail.com', '$2b$12$yks7BdjcARrc9CDI9tqLNewlmcsRvyuKDCCXzlNqtc1xlA0FLr35S', 'admin', '2026-06-15 06:22:53.291094')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:52:59,899 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@gmail.com', '$2b$12$qmjbkV2kLFUvivLODwRzyeVk9eTCxpbebkZOZJPCo6TbhfvGurlAq', 'admin', '2026-06-15 06:22:53.846017')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:53:00,143 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@gmail.com', '$2b$12$PyzPdOjpxlvvekSJecdUaexlxZDPBUEQs4fCfA97ccVHBGM62yU0m', 'admin', '2026-06-15 06:22:54.164024')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:53:00,246 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@gmail.com', '$2b$12$D2iJQUSGX8urV1lhZrFzVuRXxoql2WJiH8VlpL8FPJ1mKTAAV1rf.', 'admin', '2026-06-15 06:22:54.200090')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:53:00,287 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@gmail.com', '$2b$12$9LBkMbpjSGCCCgfqm/LUju2xDTtnirypUfHoDHrvwo3Y8N8sEAoIe', 'admin', '2026-06-15 06:22:54.136063')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:53:17,500 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@supportkb.com', '$2b$12$CLr1yvi15k1Ceqor3J34PuWoHfG965x.dvCCYXvWIJAWchd9NaDLG', 'admin', '2026-06-15 06:23:11.642762')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:53:51,435 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@supportkb.com', '$2b$12$Qtr5SZuVRtT3tLk4PU05fewHdGopIan1VVVf6tp/MvSxKErbjjWmq', 'admin', '2026-06-15 06:23:45.238977')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:53:54,039 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@supportkb.com', '$2b$12$zbbqvBsVyHbMXdzWZuCMvOo5.5K7bahaDajU487oosGvuKK8Vonya', 'admin', '2026-06-15 06:23:48.268484')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:53:54,196 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@supportkb.com', '$2b$12$YOvEzvckkU9lYriIQylDFOSHHgwsBqjii6z/VCMyPypL1kS7YiwJ2', 'admin', '2026-06-15 06:23:48.422468')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:53:54,294 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@supportkb.com', '$2b$12$WJYUvSIiOgYXslXjUCGA9.V7F3bEA.qEPifCPAX/04vKcNnsUBFPu', 'admin', '2026-06-15 06:23:48.478464')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:53:55,097 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@supportkb.com', '$2b$12$GQeLXaRjzyBwh.QXHo.IeeRP0RjvedNuoXBninU6OoqEi2wuXT55y', 'admin', '2026-06-15 06:23:49.453874')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:53:55,230 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@supportkb.com', '$2b$12$N2wrsNph4sEhs1d0g6uhHOYNHvQW3.TKgBWAKhhZ3JL/PX5X3ZJGq', 'admin', '2026-06-15 06:23:49.643893')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:53:57,419 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@supportkb.com', '$2b$12$VifQkfjHUvbJK4YeIcEDMOMy8VzS/.c1YtS5FJx9dRQQmJG3vej7m', 'admin', '2026-06-15 06:23:51.857279')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:54:00,157 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@supportkb.com', '$2b$12$Q7xqcUnc71UrWKxBBFwrQ.DdSRW.u1Gvn9TpbdC6cYumtJ5VlFDQ6', 'admin', '2026-06-15 06:23:54.552981')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:54:00,299 - ai - ERROR - Failed to create user: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO users (username, email, password_hash, role, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('Sanjay Kumar', 'sanjaykumar4112006@supportkb.com', '$2b$12$FU8ff/eJDLZdDf/J/OBM4eMY/Ag6hmbUQ72gnQQxrN5WSVmmFI75O', 'admin', '2026-06-15 06:23:54.673984')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-06-15 11:58:48,951 - ai - WARNING - rank_bm25 not available: No module named 'rank_bm25'
+2026-06-15 13:21:39,465 - ai - ERROR - Ollama query failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=15)
+2026-06-15 13:22:47,488 - ai - ERROR - Ollama query failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=15)
+2026-06-15 13:23:24,857 - ai - ERROR - Ollama query failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=15)
